@@ -11,7 +11,11 @@ Project description
  My task is to perform smart analysis with the data using Python code and come up with a good recommendation for the store manager.  
  
 The Data set contains:  
+
 -9835 rows 
+
 -Each row is a transaction (customer basket) 
+
 -The items purchased in each row are separated by commas 
+
 -169 unique items
